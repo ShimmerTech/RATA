@@ -1,8 +1,9 @@
 # RATA
 A Project for the Reason Analysis of Traffic Accidents(RATA)
 
-firstly,change the collection field in the shell script to what you need. 
+Step1:change the collection field in the shell script to what you need. 
 
-then,execute and redirect the output to a file.
+Step2:execute and redirect the output to a file.
 
-finally,$mongo < file. 
+Step3:
+$mongo < file. 
